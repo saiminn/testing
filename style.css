@@ -1,0 +1,91 @@
+.main {
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+.menu {
+    
+    margin-bottom: 40px;
+}
+
+
+.menu img{
+    margin-right: 350px;
+    width: 3%;
+}
+
+.left-side{
+    display: inline-block;
+    width: 40%;
+}
+.right-side {
+    display: inline-block;
+    width: 40%;
+}
+
+.header {
+    
+    margin-bottom: 20px;
+}
+.description {
+    margin-bottom: 20px;
+}
+.appstoreImage {
+    width: 60%;
+}
+.phoneImage {
+   width: 130%;
+}
+.menuItem {
+    text-decoration: none;
+    color: inherit;
+    margin-left: 30px;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.menuItem:hover {
+    border-bottom-style: solid;
+}
+.blockElement{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: none;
+    background-color: lightgray;
+    height: 35px;
+    width: 300px;
+    border-radius: 15px;
+    outline: none;
+    padding: 0 20px;
+    font-size: 16px;
+
+}
+.signInButton {
+    background-color: #0084ff;
+    padding: 2px 20px 0;
+    border: none;
+    border-radius: 24px;
+    color: white;
+    font-size: 19px;
+    height: 40px;
+    width: 100px;
+}
+.inputSpan {
+    margin-bottom: 20px;
+}
+.forgotten-password{
+    margin-bottom: 20px;
+}
+
+
+.footer {
+    margin-top: 80px;
+    text-align: center;
+    font-size: 50px;
+    padding: 40px;
+}
+
+
+.inner-left {
+    width: 60%;
+}
